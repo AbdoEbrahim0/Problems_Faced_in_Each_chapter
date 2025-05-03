@@ -12,6 +12,7 @@ SELECT Pname ,Plocation ,Dnum FROM Project
 
 --- 4 ---
 SELECT Fname +' ' +Lname as FullName , (Salary*12)*1 as 'ANNUAL COMM' FROM Employee
+  
 --- 5 ---
 SELECT SSN, Fname +' ' +Lname as 'Name' FROM Employee where Salary >1000 
 
