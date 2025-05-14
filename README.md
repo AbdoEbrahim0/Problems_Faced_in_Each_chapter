@@ -49,7 +49,10 @@ To run the assignments locally, please **restore the following database backups*
 This project is part of my learning journey.  
 Feel free to fork it, explore it, or suggest improvements!
 ---
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="SQL Logo GIF">
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="SQL Logo GIF">
+</p>
+
 
 ---
 Eng /Manar Elhabbal
