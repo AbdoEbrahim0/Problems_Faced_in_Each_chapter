@@ -4,7 +4,7 @@ Welcome, everyone!
 This repository contains my **solutions** to the assignments from the official course:
 
 🎓 **Transact-SQL Queries using SQL Server**  
-🔗 [Course Link on MaharaTech](https://maharatech.gov.eg/mod/quiz/view.php?id=17037)
+🔗 [Course Link on MaharaTech](https://maharatech.gov.eg/course/view.php?id=2288)
 
 ---
 
@@ -48,6 +48,8 @@ To run the assignments locally, please **restore the following database backups*
 
 This project is part of my learning journey.  
 Feel free to fork it, explore it, or suggest improvements!
+---
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" alt="SQL Logo GIF">
 
 ---
 Eng /Manar Elhabbal
