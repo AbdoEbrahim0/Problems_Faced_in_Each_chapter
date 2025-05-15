@@ -26,7 +26,7 @@ Before starting this course, it's recommended to complete:
 
 i highly recommend to study this playlist (خاصة بالمقرر النظري )
 
-# [Fundamental Of Data Base](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+[Fundamental Of Data Base](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 ---
 
 ## 🗂️ Assignment 
