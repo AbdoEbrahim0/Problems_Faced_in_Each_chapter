@@ -54,3 +54,14 @@ SQL Server provides a variety of built-in functions to handle date and time valu
 |------------|------------------------------------|----------------------------------|--------|
 | `ISDATE()` | Checks if input is a valid date    | `SELECT ISDATE('2025-10-07');`   | `1`    |
 |            |                                    | `SELECT ISDATE('NotADate');`     | `0`    |
+
+## 📅 `EOMONTH()` Function — Statement and Output Table
+
+| SQL Statement                                              | Output         | Description                                 |
+|------------------------------------------------------------|----------------|---------------------------------------------|
+| `SELECT EOMONTH('2025-10-07');`                            | `2025-10-31`   | Last day of October 2025                    |
+| `SELECT EOMONTH('2020-02-09');`                            | `2020-02-29`   | Leap year February                          |
+| `SELECT EOMONTH('2019-02-15', 2);`                         | `2019-04-30`   | End of month two months ahead               |
+| `SELECT EOMONTH(GETDATE());`                               | `2025-10-31`   | End of current month                        |
+| `SELECT EOMONTH('2025-10-07', -1);`                        | `2025-09-30`   | End of previous month                       |
+| `SELECT DAY(EOMONTH('2020-02-09'));`                       | `29`           | Number of days in February 2020             |
